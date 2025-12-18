@@ -1,0 +1,16 @@
+logging:
+  level: INFO
+
+  format: "[%(asctime)s] [%(levelname)s] %(message)s"
+
+  files:
+    controller: logs/controller.log
+    research: logs/research.log
+    experiments: logs/experiments.log
+    evaluation: logs/evaluation.log
+    scheduler: logs/scheduler.log
+    errors: logs/errors.log
+
+  rotation:
+    max_size_mb: 10
+    backup_count: 5

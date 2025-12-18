@@ -1,0 +1,8 @@
+{
+  "recent_experiments": [],
+  "best_configs": [],
+  "metric_trends": {
+    "tokens_per_second": [],
+    "ram_mb": []
+  }
+}

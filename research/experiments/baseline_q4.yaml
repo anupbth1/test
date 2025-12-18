@@ -1,0 +1,6 @@
+experiment:
+  name: baseline_q4
+  quantization: Q4_K_M
+  context_length: 4096
+  kv_cache: Q3_K_M
+  pruning: none

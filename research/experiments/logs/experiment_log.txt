@@ -1,0 +1,4 @@
+[2025-01-01]
+Experiment: mixed_quant_v1
+Result: Better speed, similar accuracy
+Decision: Keep for further tuning

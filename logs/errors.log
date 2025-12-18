@@ -1,0 +1,458 @@
+[2025-01-01 10:12:22] ERROR Quantization failed: unsupported scheme
+[2025-01-01 10:12:22] TRACE Stacktrace saved
+[2025-01-01 10:12:23] INFO  System recovered, continuing research
+[2025-12-18 13:32:16] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:32:26] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:32:36] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:32:46] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:32:56] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:33:06] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:33:16] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:33:26] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:33:36] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:33:46] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:33:56] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:34:06] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:34:16] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:34:26] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:34:36] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:34:46] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:34:56] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:35:06] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:35:16] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:35:26] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:35:36] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:35:46] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:35:56] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:36:06] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:36:16] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:36:26] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:36:36] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:36:46] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:36:56] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:37:06] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:37:16] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:37:26] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:37:36] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:37:46] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:37:56] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:38:06] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:38:16] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:38:26] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:38:36] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:38:46] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:38:56] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:39:06] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:39:16] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:39:26] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:39:36] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:39:46] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:39:56] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:40:06] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:40:16] ERROR AttributeError: 'StateManager' object has no attribute 'is_active'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 35, in main
+    if state.is_active():
+       ^^^^^^^^^^^^^^^
+AttributeError: 'StateManager' object has no attribute 'is_active'
+
+[2025-12-18 13:40:24] ERROR AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 39, in main
+    plan = coordinator.plan()
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+
+[2025-12-18 13:40:35] ERROR AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 39, in main
+    plan = coordinator.plan()
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+
+[2025-12-18 13:40:45] ERROR AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 39, in main
+    plan = coordinator.plan()
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+
+[2025-12-18 13:40:55] ERROR AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 39, in main
+    plan = coordinator.plan()
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+
+[2025-12-18 13:41:05] ERROR AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 39, in main
+    plan = coordinator.plan()
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+
+[2025-12-18 13:41:15] ERROR AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 39, in main
+    plan = coordinator.plan()
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+
+[2025-12-18 13:41:25] ERROR AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 39, in main
+    plan = coordinator.plan()
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+
+[2025-12-18 13:41:35] ERROR AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 39, in main
+    plan = coordinator.plan()
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+
+[2025-12-18 13:41:45] ERROR AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 39, in main
+    plan = coordinator.plan()
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+
+[2025-12-18 13:41:55] ERROR AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 39, in main
+    plan = coordinator.plan()
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+
+[2025-12-18 13:42:05] ERROR AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 39, in main
+    plan = coordinator.plan()
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+
+[2025-12-18 13:42:15] ERROR AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 39, in main
+    plan = coordinator.plan()
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+
+[2025-12-18 13:42:25] ERROR AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 39, in main
+    plan = coordinator.plan()
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+
+[2025-12-18 13:42:35] ERROR AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 39, in main
+    plan = coordinator.plan()
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+
+[2025-12-18 13:42:45] ERROR AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 39, in main
+    plan = coordinator.plan()
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+
+[2025-12-18 13:42:55] ERROR AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+Traceback (most recent call last):
+  File "C:\Jarvis\Ai_Engineer\main.py", line 39, in main
+    plan = coordinator.plan()
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'CoordinatorAgent' object has no attribute 'plan'
+

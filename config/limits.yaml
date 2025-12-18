@@ -1,0 +1,18 @@
+limits:
+  cpu:
+    max_usage_percent: 85
+    min_idle_sleep_seconds: 5
+
+  memory:
+    max_ram_mb: 28000
+    warning_ram_mb: 24000
+
+  execution:
+    max_code_runtime_seconds: 300
+    max_file_read_mb: 50
+    max_experiments_per_day: 20
+
+  safety:
+    allow_self_execution: true
+    allow_file_write: true
+    allow_model_training: false   # CPU protection

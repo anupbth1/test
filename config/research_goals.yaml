@@ -1,0 +1,24 @@
+research_goals:
+  primary_goal:
+    description: >
+      Improve CPU efficiency of large language models
+      using existing architectures and techniques.
+
+  focus_areas:
+    - quantization
+    - lora_efficiency
+    - pruning
+    - distillation
+    - sparse_attention
+    - inference_optimization
+
+  constraints:
+    - cpu_only
+    - limited_memory
+    - reproducible_results
+
+  success_metrics:
+    - tokens_per_second
+    - ram_usage
+    - task_accuracy
+    - energy_efficiency

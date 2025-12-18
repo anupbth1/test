@@ -1,0 +1,30 @@
+model:
+  name: local_cpu_llm
+  backend: llama.cpp
+  model_path: models/llm.gguf
+
+  context_length: 4096
+  threads: auto
+  batch_size: 1
+
+  quantization:
+    default: Q4_K_M
+    allowed:
+      - Q2_K
+      - Q3_K_M
+      - Q4_K_M
+      - Q5_K_M
+      - Q6_K
+
+    layer_profiles:
+      embedding: Q6_K
+      attention: Q5_K_M
+      mlp: Q4_K_M
+      output: Q6_K
+
+    kv_cache:
+      short_context: Q2_K
+      long_context: Q3_K_M
+
+  temperature: 0.7
+  max_output_tokens: 512

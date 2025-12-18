@@ -1,0 +1,17 @@
+security:
+  sandbox_execution: true
+
+  allowed_actions:
+    - read_files
+    - write_files
+    - execute_code
+    - train_small_adapters
+
+  blocked_actions:
+    - network_scanning
+    - privilege_escalation
+    - destructive_file_ops
+
+  logging:
+    log_all_actions: true
+    log_level: INFO

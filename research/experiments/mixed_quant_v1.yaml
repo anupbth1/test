@@ -1,0 +1,12 @@
+experiment:
+  name: mixed_quant_v1
+  embedding: Q6_K
+  attention: Q5_K_M
+  mlp: Q4_K_M
+  output: Q6_K
+{
+  "tokens_per_second": 14,
+  "ram_mb": 4200,
+  "efficiency_score": 0.0033,
+  "notes": "Stable baseline"
+}

@@ -1,0 +1,12 @@
+Long-term Research Memory
+========================
+
+This file stores durable insights that survived multiple experiments.
+
+Rules:
+- Only stable findings are written here.
+- No speculation.
+- Updated slowly.
+
+[INITIAL STATE]
+CPU-first research initialized.

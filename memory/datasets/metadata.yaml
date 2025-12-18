@@ -1,0 +1,7 @@
+dataset:
+  source: mixed
+  generation: synthetic + manual
+  purpose:
+    - evaluation
+    - light_distillation
+  cpu_safe: true

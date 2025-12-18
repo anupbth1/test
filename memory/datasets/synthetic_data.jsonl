@@ -1,0 +1,2 @@
+{"prompt": "Optimize CPU inference", "output": "Use mixed quantization"}
+{"prompt": "Reduce RAM usage", "output": "Quantize KV-cache aggressively"}
