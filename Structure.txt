@@ -1,0 +1,114 @@
+AI_RESEARCHER/
+│
+├── README.md
+├── main.py
+│
+├── config/
+│   ├── model.yaml
+│   ├── limits.yaml
+│   ├── scheduler.yaml
+│   ├── research_goals.yaml
+│   ├── security.yaml
+│   └── logging.yaml
+│
+├── core/
+│   ├── controller.py
+│   ├── llm_engine.py
+│   ├── scheduler.py
+│   ├── state_manager.py
+│   ├── prompt_manager.py
+│   ├── execution_manager.py
+│   ├── evaluation_manager.py
+│   └── error_handler.py
+│
+├── agents/
+│   ├── planner.py
+│   ├── researcher.py
+│   ├── experimenter.py
+│   ├── efficiency_agent.py
+│   ├── critic.py
+│   ├── reflector.py
+│   ├── summarizer.py
+│   └── coordinator.py
+│
+├── prompts/
+│   ├── planner.txt
+│   ├── researcher.txt
+│   ├── experimenter.txt
+│   ├── efficiency_agent.txt
+│   ├── critic.txt
+│   ├── reflector.txt
+│   └── summarizer.txt
+│
+├── memory/
+│   ├── short_term.json
+│   ├── working_memory.json
+│   ├── long_term.txt
+│   ├── knowledge_base.md
+│   ├── lessons_learned.md
+│   ├── failures.md
+│   └── datasets/
+│       ├── instruction_data.jsonl
+│       ├── synthetic_data.jsonl
+│       └── metadata.yaml
+│
+├── tools/
+│   ├── file_reader.py
+│   ├── pdf_reader.py
+│   ├── web_reader.py
+│   ├── code_runner.py
+│   ├── benchmark_runner.py
+│   ├── profiler.py
+│   ├── cpu_monitor.py
+│   ├── memory_monitor.py
+│   └── safety_guard.py
+│
+├── research/
+│   ├── papers/
+│   ├── ideas/
+│   ├── experiments/
+│   │   ├── configs/
+│   │   ├── results/
+│   │   └── logs/
+│   ├── benchmarks/
+│   ├── architectures/
+│   └── notes/
+│
+├── training/
+│   ├── lora_train.py
+│   ├── qlora_train.py
+│   ├── distillation.py
+│   ├── pruning.py
+│   ├── quantization.py
+│   ├── merge_adapters.py
+│   ├── evaluate_model.py
+│   └── training_logs/
+│
+├── api/
+│   ├── server.py
+│   ├── endpoints.py
+│   ├── protocol.py
+│   └── auth.py
+│
+├── logs/
+│   ├── controller.log
+│   ├── research.log
+│   ├── experiments.log
+│   ├── evaluation.log
+│   ├── scheduler.log
+│   └── errors.log
+│
+├── utils/
+│   ├── json_utils.py
+│   ├── text_utils.py
+│   ├── math_utils.py
+│   ├── time_utils.py
+│   └── path_utils.py
+│
+└── tests/
+├── test_planner.py
+├── test_researcher.py
+├── test_critic.py
+├── test_efficiency.py
+├── test_memory.py
+└── test_tools.py
